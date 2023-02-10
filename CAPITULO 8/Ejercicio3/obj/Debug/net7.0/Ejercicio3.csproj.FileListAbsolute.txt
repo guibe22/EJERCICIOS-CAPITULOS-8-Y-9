@@ -1,0 +1,15 @@
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\bin\Debug\net7.0\Ejercicio3.exe
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\bin\Debug\net7.0\Ejercicio3.deps.json
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\bin\Debug\net7.0\Ejercicio3.runtimeconfig.json
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\bin\Debug\net7.0\Ejercicio3.dll
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\bin\Debug\net7.0\Ejercicio3.pdb
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.dll
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\refint\Ejercicio3.dll
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.pdb
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\galve\OneDrive\TAREAS\PROGRAMACION APLICADA\EJERCICIO CAPITULOS 8 Y 9\CAPITULO 8\Ejercicio3\obj\Debug\net7.0\ref\Ejercicio3.dll
